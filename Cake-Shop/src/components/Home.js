@@ -40,9 +40,3 @@ const Home = () => {
 }
 
 export default Home;
-
-
-// {loggedInUser && <Typography variant="h4">Welcome! {loggedInUser}</Typography>}
-
-
-//{userEmail && (<Typography variant="h4" flexGrow={1}>Welcome! {name} </Typography>)}
